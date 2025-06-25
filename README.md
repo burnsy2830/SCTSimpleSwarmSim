@@ -9,4 +9,5 @@
 
 ### The Supervisor: 
   
-![Uploading Supervisor.png…]()
+
+![Supervisor](https://github.com/user-attachments/assets/78ff8c26-5f54-46cf-8c47-cde30bd6d9e1)
